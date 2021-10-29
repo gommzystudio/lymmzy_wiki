@@ -32,20 +32,12 @@ jobs:
         uses: JoeIzzard/ghaction-wiki-sync@v1
         with:
           # The username of the repo owner
-          username: "gommzystudio"
+          username: gommzystudio
           # The access token with Repo access. Can be passed in using `{{ secrets.GITHUB_TOKEN }}`.
-          access_token: "{{ secrets.GITHUB_TOKEN }}"
+          access_token: ${{ secrets.GITHUB_TOKEN }}
           # The folder you want to sync the repo with
-          wiki_folder: "wiki"
-          # A custom commit message to be used
-          commit_message: "update wiki"
+          wiki_folder: wiki
           # The email address to use with the commit
-          commit_username: "gommzystudio"
+          commit_username: gommzystudio
           # The email address to use when committing
-          commit_email: "gommzy@gmx.de"
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          commit_email: gommzy@gmx.de
