@@ -1,0 +1,1 @@
+<a href="https://shop.lymmzy.com/" target="_blank">Shop</a>  <a href="https://lymmzy.com:8000/#earth;flat;2736,64,-9840;0" target="_blank">Livemap</a>  <a href="https://discord.lymmzy.com/" target="_blank">Discord</a>
