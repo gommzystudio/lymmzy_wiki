@@ -1,1 +1,1 @@
-Welcome to the Lymmzy wiki!
+Welcome to the Lymmzy wiki! :D
