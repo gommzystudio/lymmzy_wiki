@@ -3,4 +3,3 @@
 </center>
 
 Welcome to the Lymmzy wiki!
-Kdewe war hier.
