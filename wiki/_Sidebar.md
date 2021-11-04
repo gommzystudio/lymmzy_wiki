@@ -35,3 +35,6 @@
 * **Mescellaneous**
   * Mana
   * Land
+
+### **Clans**
+  * coming soon
