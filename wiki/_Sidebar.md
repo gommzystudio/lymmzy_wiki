@@ -36,5 +36,4 @@
   * Mana
   * Land
 
-### **Clans**
-  * coming soon
+### **[Clans](https://github.com/gommzystudio/lymmzy_wiki/wiki/Clans)**
