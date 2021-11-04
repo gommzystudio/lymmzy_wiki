@@ -12,7 +12,7 @@
 * **Armor**
   * Titanarmor
   * Bloodarmor
-  * Hermerboots
+  * Hermesboots
     
 
 * **Weapons**
