@@ -1,6 +1,11 @@
 # General
 
 ### **Introducion**
+
+
+## **Rubies**
+  * How to get Rubies
+  * redeeem rewards
   
 
 ### **Dungeon**
