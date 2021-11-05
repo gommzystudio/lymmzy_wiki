@@ -37,4 +37,4 @@
   * Land
 
 ### **[Clans](https://github.com/gommzystudio/lymmzy_wiki/wiki/Clans)**
-  *[Overview](https://github.com/gommzystudio/lymmzy_wiki/wiki/Clans#overview)*
+  **[Overview](https://github.com/gommzystudio/lymmzy_wiki/wiki/Clans#overview)**
