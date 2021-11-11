@@ -1,8 +1,6 @@
-<center>
-  <img src="https://lymmzy.com/img/logo.png" width="200px" height="200px"></img>
-
-  Welcome to the Lymmzy wiki!
-</center>
+<p align="center">
+    <img src="https://lymmzy.com/img/logo.png" width="200px" height="200px"></img>
+</p>
 
 
 
