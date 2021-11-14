@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://lymmzy.com/img/logo.png" width="200px" height="200px"></img>
+    <img src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/f6aaf96bc48fe45d49422c37f7bf7e6d62f58842.png" width="200px" height="200px"></img>
 </p>
 
 
