@@ -8,10 +8,7 @@
   * redeeem rewards
   
 
-### **Dungeon**
-  * Play with friends
-  
-
+### **[Dungeon](https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons)**
 
 ### **Custom Items**
 * **Armor**
