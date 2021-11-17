@@ -10,7 +10,7 @@
 
 ### **[Dungeon](https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons)**
 
-### **[Questing]()**
+### **[Questing](https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons)**
 
 ### **Custom Items**
 * **Armor**
