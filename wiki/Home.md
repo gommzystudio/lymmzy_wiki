@@ -15,3 +15,5 @@ When you play on lymmzy for the first time, the server will try to install a res
     <img src="https://i.imgur.com/thkeB47.png" width="392px" height="179px"></img>
 </p>
 
+You are now ready to do your first quests
+
