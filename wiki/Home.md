@@ -15,5 +15,8 @@ When you play on lymmzy for the first time, the server will try to install a res
     <img src="https://i.imgur.com/thkeB47.png" width="392px" height="179px"></img>
 </p>
 
-You are now ready to do your first quests
+Once you've downloaded the texturepack, you're ready to begin your adventure on lymmzy. At the first step you have to do two tutorial quests. You can see your current quest by running "/menu" and then click on the "Quests" icon.
 
+<p align="center">
+    <img src="https://i.imgur.com/7whhzxv.png" width="736px" height="426px"></img>
+</p>
