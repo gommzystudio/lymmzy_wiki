@@ -9,6 +9,8 @@ You can enter Lymmzy.com with Minecraft Java 1.17. To be able to play you need a
 
 ## First time join
 
+When you play on lymmzy for the first time, the server will try to install a resource pack. You have to accept it with "Yes" otherwise you will be kicked and you won't be able to play on our server
+
 <p align="center">
     <img src="https://i.imgur.com/thkeB47.png" width="392px" height="179px"></img>
 </p>
