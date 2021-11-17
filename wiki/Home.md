@@ -9,6 +9,7 @@ You can enter Lymmzy.com with Minecraft Java 1.17. To be able to play you need a
 
 ## First time join
 
-
-https://imgur.com/a/kUBQ9uD
+<p align="center">
+    <img src="https://imgur.com/a/kUBQ9uD" width="200px" height="200px"></img>
+</p>
 
