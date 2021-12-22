@@ -10,7 +10,7 @@
 
 ### **[Dungeon](https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons)**
 
-### **[Questing](https://github.com/gommzystudio/lymmzy_wiki/wiki/Questing)**
+### **[Quests](https://github.com/gommzystudio/lymmzy_wiki/wiki/Questing)**
 
 ### **[Claiming](https://github.com/gommzystudio/lymmzy_wiki/wiki/Claiming)**
 
