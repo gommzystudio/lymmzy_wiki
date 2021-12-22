@@ -1,45 +1,34 @@
-# General
+# Navigation
 
-### **Introducion**
+## **[Home](https://github.com/gommzystudio/lymmzy_wiki/wiki/Home)**
 
+## **[Claiming](https://github.com/gommzystudio/lymmzy_wiki/wiki/Claiming)**
+  * Overview
+  * How to Claim
+  * How to manage a Claim
 
-## **Rubies**
-  * How to get Rubies
-  * redeeem rewards
-  
+## **[Clans](https://github.com/gommzystudio/lymmzy_wiki/wiki/Clans)**
+  * Overview
+  * How to create a Clan
+  * How to manage a Clan
 
-### **[Dungeon](https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons)**
+## **[Custom Items](https://github.com/gommzystudio/lymmzy_wiki/wiki/CustomItems)**
+  * Armor
+  * Weapons
+  * Tools
+  * Enchants
+  * Miscellaneous
 
-### **[Quests](https://github.com/gommzystudio/lymmzy_wiki/wiki/Questing)**
+## **[Dungeon](https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons)**
+  * Overview
+  * Join a Dungeon
+  * Play with Friends
+  * How to play a Dungeons
 
-### **[Claiming](https://github.com/gommzystudio/lymmzy_wiki/wiki/Claiming)**
+## **[Rubies](https://github.com/gommzystudio/lymmzy_wiki/wiki/Rubies)**
+  * Overview
+  * How to obtain Rubies
 
-### **Custom Items**
-* **Armor**
-  * Titanarmor
-  * Bloodarmor
-  * Hermesboots
-    
-
-* **Weapons**
-  * Iron Blade
-  * Heartstealer
-  * Glaive
-  * Hammer of Gravity
-  
-
-* **Tools**
-  * Ivory axe
-  * Titan pickaxe
-
-
-* **Custom Enchants**
-  * Ice Aspect
-  * Knowledge
-
-
-* **Mescellaneous**
-  * Mana
-  * Land
-
-### **[Clans](https://github.com/gommzystudio/lymmzy_wiki/wiki/Clans)**
+## **[Questing](https://github.com/gommzystudio/lymmzy_wiki/wiki/Questing)**
+  * Overview
+  * Receive Rewards

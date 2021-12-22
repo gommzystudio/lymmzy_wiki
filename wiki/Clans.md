@@ -1,6 +1,5 @@
-# Clans
-
 ## Overview
 
+## How to create a Clan
 
-## Commands
+## How to manage a Clan
