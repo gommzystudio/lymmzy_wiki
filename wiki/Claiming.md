@@ -11,7 +11,7 @@ If you have decided to claim a property, you first need a certain number of clai
 Once you have chosen a free chunk, you can use the /claim command to manage your claims. There you can click on one of the free claim slots to create your claim.
 
 <p align="center">
-    <img src="https://i.ibb.co/dWf9vRh/2021-12-25-16-05-01.png" width="600px" height="300px"></img>
+    <img src="https://i.ibb.co/xHgqdKd/2021-12-25-16-05-01.png" width="500px" height="400px"></img>
 </p>
 
 <p align="center">
@@ -22,5 +22,5 @@ Once you have chosen a free chunk, you can use the /claim command to manage your
 If you want to manage your claim, stand on the claim and type /claim again. There you can add/remove other players from your claim, expand the property or delete it.
 
 <p align="center">
-    <img src="https://i.ibb.co/XVDfPj3/2021-12-25-16-19-39.png" width="600px" height="300px"></img>
+    <img src="https://i.ibb.co/RN6L8WL/2021-12-25-16-19-39.png" width="500px" height="400px"></img>
 </p>
