@@ -6,34 +6,37 @@ The explorer is an npc, where you can find at the spawn. When you click on it, a
 </p>
 
 ## Armor
-#### Titanarmor
+
+<b>Titan Armor <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/titan_chestplate.png?raw=true" height="20px"></img></b><br>
 The Titan Armor is one of the strongest and rarest armor sets on Lymmzy. The Armor is from the base stats like the Netherite armor. The chestplate and leggings give you 3 extra hearts each. The helmet and shoes give you 2 hearts. However, you lose a certain amount of movement speed per piece of armor. You can find the exact information at the explorer at the spawn under the point Armor. The armor is classified with the rarity level Legendary and can be obtained in the dungeons and various chests.
 
-#### Bloodarmor
+<b>Blood Armor <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/blood_chestplate.png?raw=true" height="20px"></img></b><br>
 The Armor is from the base stats like the Iron armor. The chestplate and leggings give you 3 extra hearts each. The helmet and shoes give you 2 hearts. You can find the exact information at the explorer at the spawn under the point Armor. The armor is classified with the rarity level Rare and can be obtained in the dungeons and various chests.
 
-#### Hermesboots
+<b>Hermesboots <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/hermes_boots.png?raw=true" height="20px"></img></b><br>
 Hermesboots are shoes that give the player 40% speed when worn. These boots combine well with the Titan Armor. The boots are classified with the rarity level Epic and can be obtained in the dungeons.
 
 ## Weapons
-#### Iron Blade
+
+<b>Iron Blade <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/ironblade.png?raw=true" height="20px"></img></b><br>
 The Iron Blade is a Common classified weapon that gives you 25% speed when you hold it in your hand. You can attack very fast with the blade. You can obtain the Blade in Dungeons.
 
-#### Glaive
+<b>Glaive <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/glaive.png?raw=true" height="20px"></img></b><br>
 The Glaive is a Epic classified weapon that gives you enemy slowness when you attack it. You can attack slow with the Glaive. You can obtain the Glaive in Dungeons.
 
 #### Hammer of Gravity
 The Hammer of Gravity is a Epic classified weapon that makes a wave damage effect when hit a enemy. You can attack slow with the Hammer. You can obtain the Hammer in Dungeons.
 
-#### Heartstealer
+<b>Heartstealer <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/heartstealer.png?raw=true" height="20px"></img></b><br>
 The Heartstealer is a Legendary classified weapon that gives you 20% of the Hearts back, that you deal to your opponent. You can attack normal fast with the Sword. You can obtain the Blade in Dungeons and in various chests.
 
 ## Tools
-#### Ivory Axe
+
+<b>Ivory Axe <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/ivoryaxe.png?raw=true" height="20px"></img></b><br>
 The Ivory Axe is a Legendary classified tools that cuts a whole tree down, when you break a single log. You can obtain the Blade in Dungeons and in various chests.
 
-#### Titan Pickaxe
-The Ivory Axe is a Legendary classified tools that breaks a 3x3 Cube, when you break a single block. You can obtain the Blade in Dungeons and in various chests.
+<b>Titan Pickaxe <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/titan_pickaxe.png?raw=true" height="20px"></img></b><br>
+The Titan Pickaxe is a Legendary classified tools that breaks a 3x3 Cube, when you break a single block. You can obtain the Blade in Dungeons and in various chests.
 
 ## Enchants
 #### Instant Smelting
@@ -55,21 +58,22 @@ Blocking is an with Rare classified enchantment that can be applied to helmets. 
 Last Chance is an with Legendary classified enchantment that can be applied to helmets. When you have less then three hearts your receive the absorption effect. This Enchantment has a five minute cooldown.
 
 ## Miscellaneous
-#### Mana
+
+<b>Mana <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/mana.png?raw=true" height="20px"></img></b><br>
 Mana is a Common classified item, what you need to enchant at the Blacksmith. You can find it in Dungeons.
 
-#### Small Land
+<b>Small Land <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/big_land.png?raw=true" height="20px"></img></b><br>
 Small Land is a Epic classifies item, what you can find in Dungeons and Votechests. If you right-click the item, you will be credited with 32 claimblocks.
 
-#### Big Land
-Small Land is a Legendary classifies item, what you can find in Dungeons and the Legendarychest. If you right-click the item, you will be credited with 256 claimblocks.
+<b>Big Land <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/small_land.png?raw=true" height="20px"></img></b><br>
+Big Land is a Legendary classifies item, what you can find in Dungeons and the Legendarychest. If you right-click the item, you will be credited with 256 claimblocks.
 
 ## Special
 
-<b><img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_sword.png?raw=true" height="20px"></img> Christmas Heartstealer</b><br>
+<b>Christmas Heartstealer <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_sword.png?raw=true" height="20px"></img></b><br>
 The Christmas Heartstealer was an event item, which you could get in the wintertime 2021. You could get it at that time in dungeons and various crates. It is characterized by a 3D model that looks like a candy cane. Now you can only get it by trading with players.
 
-#### Christmas Shield
+<b>Christmas Shield <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_shield.png?raw=true" height="20px"></img></b><br>
 The Christmas Shield was an event item, which you could get in the wintertime 2021. You could get it at that time in dungeons and various crates. It is characterized by a 3D model, which has a custom design on the front and by gold decorations on the edge
 
 <p align="center">
