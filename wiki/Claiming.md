@@ -1,4 +1,4 @@
-## What are Claims
+## Overview
 Claims are a way to keep your structures and items safe from other players. Claims correspond to chunks and you can claim any chunk as long as it has not been claimed by another player. On our livemap you can find all chunks, which are already claimed and which are still free. Claimed chunks are highlighted in color.
 
 <p align="center">
