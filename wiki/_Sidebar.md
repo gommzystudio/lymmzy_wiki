@@ -31,6 +31,6 @@
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Rubies#overview">Rubies</a>
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Rubies#how-to-obtain-rubies">How to obtain</a>
 
-## **[Questing](https://github.com/gommzystudio/lymmzy_wiki/wiki/Questing)**
-  * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Questing#overview">Overview</a>
-  * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Questing#receive-rewards">Receive Rewards</a>
+## **[Questing](https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests)**
+  * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#overview">Overview</a>
+  * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#receive-rewards">Receive Rewards</a>
