@@ -2,7 +2,7 @@
 The explorer is an npc, where you can find at the spawn. When you click on it, a gui opens in which you can find all the information about the custom items.
 
 <p align="center">
-    <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/explorer.png?raw=true" width="600px" height="300px"></img>
+    <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/explorer.png?raw=true" width="600px"></img>
 </p>
 
 ## Armor
@@ -70,12 +70,12 @@ Small Land is a Legendary classifies item, what you can find in Dungeons and the
 The Christmas Heartstealer was an event item, which you could get in the wintertime 2021. You could get it at that time in dungeons and various crates. It is characterized by a 3D model that looks like a candy cane. Now you can only get it by trading with players.
 
 <p align="center">
-    <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_sword.png?raw=true" width="200px" height="300px"></img>
+    <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_sword.png?raw=true" width="200px"></img>
 </p>
 
 #### Christmas Shield
 The Christmas Shield was an event item, which you could get in the wintertime 2021. You could get it at that time in dungeons and various crates. It is characterized by a 3D model, which has a custom design on the front and by gold decorations on the edge
 
 <p align="center">
-    <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_shield.png?raw=true" width="200px" height="300px"></img>
+    <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_shield.png?raw=true" width="200px"></img>
 </p>
