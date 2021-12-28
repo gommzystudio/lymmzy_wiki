@@ -19,7 +19,7 @@
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/CustomItems#tools">Tools</a>
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/CustomItems#enchants">Enchants</a>
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/CustomItems#miscellaneous">Miscellaneous</a>
-  * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/CustomItems#special">Special</a>
+  * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/CustomItems#seasonal">Special</a>
 
 ## **[Dungeon](https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons)**
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Dungeons#overview">Overview</a>
