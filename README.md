@@ -4,6 +4,6 @@ We will process them fast as possible.<br>
 <br>
 The wiki is in the "wiki" folder. :)
 
-Tutorial (English): https://www.youtube.com/embed/rZQ25EFxGXk
+Tutorial (English): https://www.youtube.com/watch?v=rZQ25EFxGXk
 <br>
-Tutorial (German): https://www.youtube.com/embed/7Hmv2lNtflw
+Tutorial (German): https://www.youtube.com/watch?v=7Hmv2lNtflw
