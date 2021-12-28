@@ -5,7 +5,7 @@
 
 
 ## Getting started
-You can enter Lymmzy.com with Minecraft Java 1.17. To be able to play you need an original Minecraft Java Account from [Minecraft.net](https://minecraft.net).
+You can enter Lymmzy.com with Minecraft Java. To be able to play you need an original Minecraft Java Account from [Minecraft.net](https://minecraft.net).
 
 ## First time join
 
