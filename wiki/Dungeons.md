@@ -3,6 +3,11 @@ Playing dungeons is an important part of the server.
 Through dungeons you get very good loot like diamonds and other resources, as well as custom items like Mana, Claimland, Bloodarmor, Titanarmor, Ivoryaxes and Titanpickaxes as weapons like IronBlades, Hammer of gravity, Glaive and Hearthstealer. As well as custom enchantments. You enter dungeons at spawn.
 
 ## Join a Dungeon
+When you join a dungeon, you will find a zombie at the spawn. When you click on it, you can play the dungeon level you have selected. You unlock dungeon levels by completing the level before it.
+
+<p align="center">
+    <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/dungeons.png?raw=true" width="600px"></img>
+</p>
 
 ## Play with friends
 You can also play a dungeon with your friends, when you go in you have one minute to gather with your friends, a code is displayed at your actionbar and you have to give it to your friends who can join with (/join [code] ).
