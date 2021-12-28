@@ -4,8 +4,6 @@ We will process them fast as possible.<br>
 <br>
 The wiki is in the "wiki" folder. :)
 
-Tutorial (English):<br>
-<iframe src="https://www.youtube.com/embed/rZQ25EFxGXk" width="560" height="315" frameborder="0"></iframe>
+Tutorial (English): https://www.youtube.com/embed/rZQ25EFxGXk
 <br>
-Tutorial (German): <br>
-<iframe src="https://www.youtube.com/embed/7Hmv2lNtflw" width="560" height="315" frameborder="0"></iframe>
+Tutorial (German): https://www.youtube.com/embed/7Hmv2lNtflw
