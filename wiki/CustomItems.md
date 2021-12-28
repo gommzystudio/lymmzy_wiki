@@ -66,7 +66,7 @@ Small Land is a Legendary classifies item, what you can find in Dungeons and the
 
 ## Special
 
-####<img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_sword.png?raw=true" height="15px"></img> Christmas Heartstealer
+<img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_sword.png?raw=true" height="20px"></img> #### Christmas Heartstealer
 The Christmas Heartstealer was an event item, which you could get in the wintertime 2021. You could get it at that time in dungeons and various crates. It is characterized by a 3D model that looks like a candy cane. Now you can only get it by trading with players.
 
 #### Christmas Shield
