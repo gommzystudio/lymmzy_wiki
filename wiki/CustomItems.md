@@ -10,6 +10,9 @@ The explorer is an npc, where you can find at the spawn. When you click on it, a
 <b>Titan Armor <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/titan_chestplate.png?raw=true" height="20px"></img></b><br>
 The Titan Armor is one of the strongest and rarest armor sets on Lymmzy. The Armor is from the base stats like the Netherite armor. The chestplate and leggings give you 3 extra hearts each. The helmet and shoes give you 2 hearts. However, you lose a certain amount of movement speed per piece of armor. You can find the exact information at the explorer at the spawn under the point Armor. The armor is classified with the rarity level Legendary and can be obtained in the dungeons and various chests.
 
+<b>Energy Armor <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/energy_chestplate.png?raw=true" height="20px"></img></b><br>
+The Energy Armor is another Legendary classified armor set. The chestplate and leggings give you 30% extra damage each. The helmet and shoes give you 20% damage. You can find the exact information at the explorer at the spawn under the point Armor. The armor can be obtained in the dungeons and various chests.
+
 <b>Blood Armor <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/blood_chestplate.png?raw=true" height="20px"></img></b><br>
 The Armor is from the base stats like the Iron armor. The chestplate and leggings give you 3 extra hearts each. The helmet and shoes give you 2 hearts. You can find the exact information at the explorer at the spawn under the point Armor. The armor is classified with the rarity level Rare and can be obtained in the dungeons and various chests.
 
