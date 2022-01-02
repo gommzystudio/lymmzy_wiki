@@ -24,6 +24,8 @@ Hermesboots are shoes that give the player 40% speed when worn. These boots comb
 <b>Iron Blade <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/ironblade.png?raw=true" height="20px"></img></b><br>
 The Iron Blade is a Common classified weapon that gives you 25% speed when you hold it in your hand. You can attack very fast with the blade. You can obtain the Blade in Dungeons.
 
+*(Addition: Some players have so-called Old Iron Blades, which are considerably stronger than the normal ones. There is a variant that gives you the speed effect when carried in off-hand. Additionally, the hit cooldown is lowered. There is also an even rarer variant where the damage of the blade is added to the damage of the main hand. These two variants are no longer available and are extremely rare. You can't tell them apart from the normal ones until you try it yourself.)*
+
 <b>Glaive <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/glaive.png?raw=true" height="20px"></img></b><br>
 The Glaive is a Epic classified weapon that gives you enemy slowness when you attack it. You can attack slow with the Glaive. You can obtain the Glaive in Dungeons.
 
