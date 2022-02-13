@@ -37,4 +37,4 @@
 
 ## **[NFT's](https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests)**
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/edit/main/wiki/NFT.md#overview">Overview</a>
-  * <a href="https://github.com/gommzystudio/lymmzy_wiki/edit/main/wiki/NFT#how-to-create-an-nft-of-your-claim">Receive Rewards</a>
+  * <a href="https://github.com/gommzystudio/lymmzy_wiki/edit/main/wiki/NFT#how-to-create-an-nft-of-your-claim">Create an nft</a>
