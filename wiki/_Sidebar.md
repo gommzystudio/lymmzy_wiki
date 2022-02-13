@@ -34,3 +34,5 @@
 ## **[Questing](https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests)**
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#overview">Overview</a>
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#receive-rewards">Receive Rewards</a>
+
+## **[NFT's](https://github.com/gommzystudio/lymmzy_wiki/wiki/NFT)**
