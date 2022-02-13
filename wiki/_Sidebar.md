@@ -35,6 +35,6 @@
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#overview">Overview</a>
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#receive-rewards">Receive Rewards</a>
 
-## **[NFT's](https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests)**
-  * <a href="https://github.com/gommzystudio/lymmzy_wiki/edit/main/wiki/NFT.md#overview">Overview</a>
+## **[NFT's](https://github.com/gommzystudio/lymmzy_wiki/edit/main/wiki/NFT)**
+  * <a href="https://github.com/gommzystudio/lymmzy_wiki/edit/main/wiki/NFT#overview">Overview</a>
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/edit/main/wiki/NFT#how-to-create-an-nft-of-your-claim">Create an nft</a>
