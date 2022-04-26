@@ -35,7 +35,7 @@
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#overview">Overview</a>
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/Quests#receive-rewards">Receive Rewards</a>
 
-## **[Creating minigames](https://github.com/gommzystudio/lymmzy_wiki/wiki/Minigames)**
+## **[Minigames](https://github.com/gommzystudio/lymmzy_wiki/wiki/Minigames)**
 
 ## **[NFT's (Feature removed)](https://github.com/gommzystudio/lymmzy_wiki/wiki/NFT)**
   * <a href="https://github.com/gommzystudio/lymmzy_wiki/wiki/NFT#overview">Overview</a>
