@@ -29,8 +29,11 @@ The Iron Blade is a Common classified weapon that gives you 25% speed when you h
 <b>Glaive <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/glaive.png?raw=true" height="20px"></img></b><br>
 The Glaive is a Epic classified weapon that gives you enemy slowness when you attack it. You can attack slow with the Glaive. You can obtain the Glaive in Dungeons.
 
-#### Hammer of Gravity
+<b>Hammer of Gravity </b><br>
 The Hammer of Gravity is a Epic classified weapon that makes a wave damage effect when hit a enemy. You can attack slow with the Hammer. You can obtain the Hammer in Dungeons.
+
+<b>Hammer of Fire </b><br>
+The Hammer of Fire is a weapon based on the Hammer of Gravity, as a addition it does 10 area attack damage and it spawns a fire area around it, it also has the ability to break shields. You can find this legendary weapons in dungeons and in legendary chests
 
 <b>Heartstealer <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/heartstealer.png?raw=true" height="20px"></img></b><br>
 The Heartstealer is a Legendary classified weapon that gives you 20% of the Hearts back, that you deal to your opponent. You can attack normal fast with the Sword. You can obtain the Blade in Dungeons and in various chests.
@@ -78,5 +81,8 @@ Big Land is a Legendary classifies item, what you can find in Dungeons and the L
 <b>Christmas Heartstealer <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_sword.png?raw=true" height="20px"></img></b><br>
 The Christmas Heartstealer was an event item, which you could get in the wintertime 2021. You could get it at that time in dungeons and various crates. It is characterized by a 3D model that looks like a candy cane. Now you can only get it by trading with players.
 
-<b>Christmas Shield <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_shield.png?raw=true" height="20px"></img></b><br>
+<b>Christmas Shield 2021 <img src="https://github.com/gommzystudio/lymmzy_wiki/blob/main/img/christmas_shield.png?raw=true" height="20px"></img></b><br>
 The Christmas Shield was an event item, which you could get in the wintertime 2021. You could get it at that time in dungeons and various crates. It is characterized by a 3D model, which has a custom design on the front and by gold decorations on the edge
+
+<b>Easer Shield 2022 </b><br>
+The Easer Shield is an event item, which you could get during the easter time 2022. You could get it at that time in legendary chests in dungeons. It shows a easter egg with a "22" label on it.
